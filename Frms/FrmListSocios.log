@@ -1,0 +1,8 @@
+Línea 29: la clase pRmFrame.RmFrame del control RmFrame1 no era una clase de control cargada.
+Línea 72: la clase LabelDegradado.LabelDegrade del control LabelDegrade1 no era una clase de control cargada.
+Línea 126: la clase pRmFrame.RmFrame del control RmFrame2 no era una clase de control cargada.
+Línea 153: la clase pRmFrame.RmFrame del control RmFrame3 no era una clase de control cargada.
+Línea 185: la clase Proyecto1.ButtonOffice del control BtnPrintList no era una clase de control cargada.
+Línea 211: la clase Proyecto1.ButtonOffice del control BtnNewSocio no era una clase de control cargada.
+Línea 237: la clase Proyecto1.ButtonOffice del control BtnRefresh no era una clase de control cargada.
+Línea 263: la clase Proyecto1.ButtonOffice del control BtnExit no era una clase de control cargada.

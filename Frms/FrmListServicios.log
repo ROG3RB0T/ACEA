@@ -1,0 +1,6 @@
+Línea 20: la clase pRmFrame.RmFrame del control RmFrame2 no era una clase de control cargada.
+Línea 79: la clase pRmFrame.RmFrame del control RmFrame1 no era una clase de control cargada.
+Línea 106: la clase pRmFrame.RmFrame del control RmFrame3 no era una clase de control cargada.
+Línea 138: la clase Proyecto1.ButtonOffice del control BtnNuevo no era una clase de control cargada.
+Línea 165: la clase Proyecto1.ButtonOffice del control BtnRefresh no era una clase de control cargada.
+Línea 192: la clase Proyecto1.ButtonOffice del control BtnExit no era una clase de control cargada.

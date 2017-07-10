@@ -1,0 +1,9 @@
+Línea 46: la clase TextBoxWinXP.TextboxXP del control TxUsuario no era una clase de control cargada.
+Línea 65: la clase TextBoxWinXP.TextboxXP del control TxPwd no era una clase de control cargada.
+Línea 52: el nombre de la propiedad _ExtentX de TxUsuario no es válido.
+Línea 53: el nombre de la propiedad _ExtentY de TxUsuario no es válido.
+Línea 54: el nombre de la propiedad Text de TxUsuario no es válido.
+Línea 71: el nombre de la propiedad _ExtentX de TxPwd no es válido.
+Línea 72: el nombre de la propiedad _ExtentY de TxPwd no es válido.
+Línea 73: el nombre de la propiedad Text de TxPwd no es válido.
+Línea 74: el nombre de la propiedad PasswordChar de TxPwd no es válido.
